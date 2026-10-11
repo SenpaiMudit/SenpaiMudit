@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/mudit-misra-96882530a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://leetcode.com/u/goK6sq475a/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    <a href="mailto:muditmisra.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:muditmisra117452@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://astraems.netlify.app/"><img src="https://img.shields.io/badge/Live_Project-ASTRA-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Astra EMS" /></a>
   </p>
 
